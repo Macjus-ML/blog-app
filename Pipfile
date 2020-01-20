@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 body = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.7"
